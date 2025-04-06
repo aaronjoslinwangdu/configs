@@ -31,4 +31,3 @@ return {
     alpha.setup(startify.config)
   end,
 }
-
