@@ -1,5 +1,5 @@
 # appearance
-theme = catppuccin-mocha
+theme = Kanagawa Wave
 font-size = 16
 font-feature = -calt, -liga, -dlig
 mouse-hide-while-typing = true
